@@ -1,3 +1,4 @@
+#labels Featured
 tadd_labels version 0.8 (beta)
 
 = Introduction =
