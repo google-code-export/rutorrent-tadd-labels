@@ -1,0 +1,9 @@
+tadd_labels version 0.8 (beta)
+
+= Introduction =
+
+tadd_labels is a plugin for ruTorrent that makes it easier to add labels to new torrent files. 
+
+= Details =
+
+*jQuery* wraps label textbox with div and removes the textbox. It then appends a dropdown, textbox, and button to the div. jQuery then appends an OPTION for each of the labels present in ruTorrent. jQuery is a very nice man.
