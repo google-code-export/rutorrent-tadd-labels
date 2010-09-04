@@ -3,6 +3,8 @@
 
 tadd-labels has been updated with several fixes and is now considered the first *real* version. a better wiki will be provided soon.
 
+Version 1.0 is here: http://rutorrent-tadd-labels.googlecode.com/files/tadd-labels_1.0.tar.gz
+
 = Details =
 
 -Added a blank option for not using labels
